@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>jean pol</title>
 
   <!--Import Google Icon Font-->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -27,6 +27,22 @@
         </div>
         </div>
     </nav>
+
+    </div>
+<div class="fixed-action-btn">
+  <a class="btn-floating lime accent-4 btn-large z-depth-5">
+    <i class="material-icons">touch_app</i>
+  </a>
+</div>
+  <div class="row">
+    <div class="col s12">
+      <div class="container  teal lighten-3 z-depth-3">
+    <h5 class=" grey-text text-darken-4 center ">BIENVENIDO A TURISMOS HUANUCO</h5>
+    <h6 class="white-text center ">VISITA LUGARES ALUCINANTES</h6>
+    <br>
+    </div>
+    </div>
+  </div>
 </div>
 </body>
 </html>

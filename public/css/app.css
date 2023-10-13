@@ -1,0 +1,42 @@
+/* Estilos para la barra de navegación */
+.navbar-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+/* Estilos para el fondo de la barra de navegación */
+.nav-wrapper {
+    background-color: #3F51B5; /* Cambia el color de fondo a tu elección */
+}
+
+/* Estilos para el enlace del logotipo */
+.brand-logo {
+    font-size: 1.5rem; /* Tamaño de fuente del logotipo */
+    margin-left: 20px; /* Espacio desde el borde izquierdo */
+    color: #fff; /* Color del texto del logotipo */
+    text-decoration: none; /* Quita el subrayado del enlace */
+}
+
+/* Estilos para los elementos de la lista de menú */
+#nav-mobile li {
+    margin-right: 10px; /* Espacio entre elementos del menú */
+}
+
+#nav-mobile a {
+    color: #fff; /* Color de texto para los enlaces del menú */
+    text-decoration: none; /* Quita el subrayado de los enlaces del menú */
+}
+
+/* Estilos para los enlaces activos */
+#nav-mobile a.active {
+    font-weight: bold; /* Cambia el estilo del texto del enlace activo */
+}
+
+/* Estilos adicionales para efectos de desplazamiento o sombreado (opcional) */
+.navbar-fixed.navbar-scroll {
+    background-color: #222; /* Cambia el color de fondo al desplazarse */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Agrega sombra al desplazarse */
+}
