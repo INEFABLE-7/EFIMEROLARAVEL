@@ -26,3 +26,30 @@ Route::get('/', function () {
 Route::get('lugares.blade.php', function () {
     return view('lugares');
 });
+
+/*
+2 ruta
+*/
+
+
+Route::get('visitantes.blade.php', function () {
+    return view('visitantes');
+});
+
+/*
+3 ruta
+*/
+
+
+Route::get('reservaciones.blade.php', function () {
+    return view('reservaciones');
+});
+
+/*
+4 ruta
+*/
+
+
+Route::get('guia.blade.php', function () {
+    return view('guia');
+});
