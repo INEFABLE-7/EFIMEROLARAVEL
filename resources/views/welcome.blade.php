@@ -37,7 +37,7 @@
   <div class="row">
     <div class="col s12">
       <div class="container  teal lighten-3 z-depth-3">
-    <h5 class=" grey-text text-darken-4 center ">BIENVENIDO A TURISMOS HUANUCO</h5>
+    <h5 class=" grey-text text-darken-4 center ">BIENVENIDO A TURISMOS HUANUCO PROFUNDO</h5>
     <h6 class="white-text center ">VISITA LUGARES ALUCINANTES</h6>
     <br>
     </div>
@@ -53,6 +53,22 @@
     </div>
   </div>
 
+
+  <div class="row">
+        <div class="col s12 z-depth-3">
+        <h2 class="deep-purple-text text-darken-4 center">Descubre la Magia de Huánuco</h2>
+		<div class="col s3">
+          <div class="card">
+            <div class="card-content">
+			<i class="large material-icons center">add_location</i>
+              <span class="card-title">Descanso y Relajación:</span>
+              <a class="btn-floating halfway-fab waves-effect waves-light light-blue"><i class="material-icons">add</i></a>
+			  <span>Este lugar turístico es mucho más que un destino; es una experiencia enriquecedora que te sumergirá en la belleza natural, la cultura y la hospitalidad de la región. Te invitamos a explorar, a descubrir y a crear recuerdos inolvidables en este paraíso terrenal.
+
+Ven y únete a nosotros en este viaje inolvidable. ¡Esperamos verte pronto! VICITAR LUGARES TURISTICOS MEJORA LA SALUD MENTAL. ANIMATE......</span>
+            </div>
+          </div>
+        </div>
 
 
 
