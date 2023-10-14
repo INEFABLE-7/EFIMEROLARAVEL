@@ -70,11 +70,38 @@ Ven y únete a nosotros en este viaje inolvidable. ¡Esperamos verte pronto! VIC
           </div>
         </div>
 
+        <div class="col s3">
+          <div class="card">
+            <div class="card-content">
+			<i class="large material-icons center">card_membership</i>
+               <span class="card-title">Aventura y Diversión:</span>
+			      <span>  Si buscas emoción, aquí la encontrarás en cada rincón. Desde deportes acuáticos emocionantes hasta rutas de senderismo desafiantes, nuestro lugar turístico ofrece actividades para todos los gustos y niveles de aventura , , la naturaleza se convierte en tu patio de juegos. Explora montañas imponentes, cañones profundos y ríos turbulentos. ¿Estás listo para escalar, hacer rappel, hacer rafting o practicar el senderismo en terrenos desafiantes? Aquí, la aventura te espera en cada paso.</span>
+            </div>
+          </div>
+        </div>
+
+		<div class="col s3">
+          <div class="card">
+            <div class="card-content">
+			<i class="large material-icons center">monochrome_photos</i>
+              <span class="card-title">Naturaleza en su Máxima Expresión:
+</span>
+			  <a class="btn-floating halfway-fab waves-effect waves-light light-blue"><i class="material-icons">add</i></a>
+              <span>   Este destino te sumerge en un paisaje de ensueño. Los majestuosos paisajes montañosos, ríos de aguas cristalinas y bosques exuberantes te dejarán sin aliento. Nuestro lugar turístico es un santuario para los amantes de la naturaleza, donde podrás explorar senderos serpenteantes, disfrutar de cascadas impresionantes y maravillarte con la vida silvestre  
+                .</span>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
 
 
 
 
+    
 
+
+     
 
 
 </body>
