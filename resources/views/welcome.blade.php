@@ -62,7 +62,7 @@
             <div class="card-content">
 			<i class="large material-icons center">add_location</i>
               <span class="card-title">Descanso y Relajación:</span>
-              <a class="btn-floating halfway-fab waves-effect waves-light light-blue"><i class="material-icons">add</i></a>
+            
 			  <span>Este lugar turístico es mucho más que un destino; es una experiencia enriquecedora que te sumergirá en la belleza natural, la cultura y la hospitalidad de la región. Te invitamos a explorar, a descubrir y a crear recuerdos inolvidables en este paraíso terrenal.
 
 Ven y únete a nosotros en este viaje inolvidable. ¡Esperamos verte pronto! VICITAR LUGARES TURISTICOS MEJORA LA SALUD MENTAL. ANIMATE......</span>
@@ -86,7 +86,7 @@ Ven y únete a nosotros en este viaje inolvidable. ¡Esperamos verte pronto! VIC
 			<i class="large material-icons center">monochrome_photos</i>
               <span class="card-title">Naturaleza en su Máxima Expresión:
 </span>
-			  <a class="btn-floating halfway-fab waves-effect waves-light light-blue"><i class="material-icons">add</i></a>
+			 
               <span>   Este destino te sumerge en un paisaje de ensueño. Los majestuosos paisajes montañosos, ríos de aguas cristalinas y bosques exuberantes te dejarán sin aliento. Nuestro lugar turístico es un santuario para los amantes de la naturaleza, donde podrás explorar senderos serpenteantes, disfrutar de cascadas impresionantes y maravillarte con la vida silvestre  
                 .</span>
             </div>
