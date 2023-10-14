@@ -16,3 +16,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+/*
+1 ruta
+*/
+
+
+Route::get('lugares.blade.php', function () {
+    return view('lugares');
+});

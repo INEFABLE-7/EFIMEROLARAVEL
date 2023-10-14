@@ -19,7 +19,7 @@
         <div class="container">
         <a href="#" class="brand-logo"><i class="material-icons">linked_camera</i>TURISMO HUANUCO</a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
-            <li><a href="sass.html">Lugares</a></li>
+            <li><a href="lugares.blade.php">Lugares</a></li>
             <li><a href="badges.html">Visitantes</a></li>
             <li><a href="collapsible.html">reservaciones </a></li>
             <li><a href="collapsible.html">Guia de acompañante</a></li>
